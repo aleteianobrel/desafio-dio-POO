@@ -3,7 +3,7 @@ package br.com.dio.desafio.dominio;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-public class Mentoria extends Conteudo{
+public class Mentoria extends Conteudo {
 
     private LocalDate data;
 
@@ -31,5 +31,4 @@ public class Mentoria extends Conteudo{
                 ", data=" + data +
                 '}';
     }
-
 }
